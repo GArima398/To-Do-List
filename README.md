@@ -18,5 +18,7 @@ The To-Do List application provides a straightforward way to keep track of your 
 - **CSS3:** For styling the user interface with a clean and modern look.
 - **JavaScript:** For adding interactivity and functionality to the application.
 
+
+##Screenshot
 ![image](https://github.com/user-attachments/assets/f7ff3af3-3306-4df8-853a-eec2256d9595)
 
